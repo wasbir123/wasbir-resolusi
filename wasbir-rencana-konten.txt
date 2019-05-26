@@ -3,6 +3,7 @@ Rencana konten wasbir
   * ES6
   * Framework javascript
     ^ Vue
+    ^ React
 - Dasar Struktur Data
 - PHP Framework
   * Laravel
