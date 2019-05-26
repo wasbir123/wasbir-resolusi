@@ -2,7 +2,9 @@ Rencana konten wasbir
 - Javascript
   * ES6
   * Framework javascript
-- Dasar Struktur Data
+  * Angular
+  * React
 - PHP Framework
+  * Laravel
 - Interview
 - Vlog
